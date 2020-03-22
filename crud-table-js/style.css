@@ -1,0 +1,37 @@
+#main {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.error {
+  text-align: center;
+  color: red;
+  display: none;
+}
+
+table {
+  width: 100%;
+  font: 17px Arial;
+}
+
+table, th, td {
+  border: solid 1px #DDD;
+  border-collapse: collapse;
+  padding: 2px 3px;
+  text-align: center;
+}
+
+input[type='button'] {
+  font: 15px Arial;
+  cursor: pointer;
+  border: none;
+  color: #FFF;
+}
+
+input[type='text'], select {
+  font: 17px Arial;
+  text-align: center;
+  border: solid 1px #CCC;
+  width: auto;
+  padding: 2px 3px;
+}

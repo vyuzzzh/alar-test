@@ -1,0 +1,26 @@
+{
+  "name": "alar-test",
+  "version": "1.0.0",
+  "description": "Тестовое задание для позиции Front-end Developer.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyuzzzh/vyuzzzh.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyuzzzh/vyuzzzh.github.io/issues"
+  },
+  "homepage": "https://github.com/vyuzzzh/vyuzzzh.github.io#readme"
+}
