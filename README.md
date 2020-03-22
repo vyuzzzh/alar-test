@@ -1,1 +1,2 @@
-# alar-test
+# AlarStudios
+# Тестовое задание для позиции Front-end Developer.
